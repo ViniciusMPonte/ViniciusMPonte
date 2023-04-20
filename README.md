@@ -16,7 +16,7 @@
 
 ## Projetos
 
-Aqui estão alguns dos meus projetos mais recentes (detalhes sobre esses e outros projetos podem ser vistos no repositórios):
+Aqui estão alguns dos meus projetos mais recentes (detalhes sobre esses e outros projetos podem ser vistos nos [repositórios](https://github.com/ViniciusMPonte?tab=repositories)):
 
 - [Blog Pontevi](https://blogapp-viniciusmponte.cyclic.app/) - Blog desenvolvido em Node.js, Express e MongoDB
 - [Medidor de Calorias](https://viniciusmponte.github.io/medidor-de-calorias-de-saladas/) - Projeto desenvolvido como estudo de modularização e manipulação de arrays de objetos
