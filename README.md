@@ -18,9 +18,9 @@
 
 Aqui estão alguns dos meus projetos mais recentes (detalhes sobre esses e outros projetos podem ser vistos nos [repositórios](https://github.com/ViniciusMPonte?tab=repositories)):
 
-- [Blog Pontevi](https://blogapp-viniciusmponte.cyclic.app/) - Blog desenvolvido em Node.js, Express e MongoDB
-- [Medidor de Calorias](https://viniciusmponte.github.io/medidor-de-calorias-de-saladas/) - Projeto desenvolvido como estudo de modularização e manipulação de arrays de objetos
-- [Conversor de Texto](https://viniciusmponte.github.io/conversor-maiusculas-e-minusculas/) - Ferramenta para manipulação de caracteres utilizando RegExp
+- [Blog Pontevi](https://blogapp-viniciusmponte.cyclic.app/) - Blog desenvolvido em Node.js, Express e MongoDB ([repositório](https://github.com/ViniciusMPonte/blogapp))
+- [Medidor de Calorias](https://viniciusmponte.github.io/medidor-de-calorias-de-saladas/) - Projeto desenvolvido como estudo de modularização e manipulação de arrays de objetos ([repositório](https://github.com/ViniciusMPonte/medidor-de-calorias-de-saladas))
+- [Conversor de Texto](https://viniciusmponte.github.io/conversor-maiusculas-e-minusculas/) - Ferramenta para manipulação de caracteres utilizando RegExp ([repositório](https://github.com/ViniciusMPonte/conversor-maiusculas-e-minusculas))
 
 
 ## Contato
