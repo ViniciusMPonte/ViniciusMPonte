@@ -1,6 +1,6 @@
-### Oi! Eu sou o *Vinícius Ponte*
+### Oi! Eu sou o *Vinícius Ponte* 😊
 
-*Aqui você vai encontrar alguns projetos que já trabalhei. Espero que goste!* 😊
+*Aqui você vai encontrar alguns projetos que já trabalhei. Espero que goste!*
 
 ### Tecnologias
 HTML, CSS, PHP, JavaScript, TypeScript, Node.js, WordPress, Bootstrap, jQuery, Express, Handlebars, RegExp, Git, GitHub, NoSQL (MongoDB), SQL (MySQL).
